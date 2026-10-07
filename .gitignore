@@ -1,0 +1,5 @@
+.venv/
+emotion-classifier/
+*.log
+nohup.out
+__pycache__/
